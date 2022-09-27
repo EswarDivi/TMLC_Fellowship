@@ -42,3 +42,8 @@ This is Deployed on Huggingface spaces.
 [View Here](https://huggingface.co/spaces/eswardivi/Bark_Texture_Images_Classification)
 
 [![image.png](https://i.postimg.cc/3xs0H4yn/image.png)](https://postimg.cc/CR4xGKsq)
+
+
+## Download 
+
+Model can be downlaod from Releases
