@@ -37,6 +37,8 @@ Run Jupyter Notebook
 
 ## Demo
 
+Code For HuggingFace depolyment can be found [Here](https://huggingface.co/spaces/eswardivi/Bark_Texture_Images_Classification/tree/main)
+
 This is Deployed on Huggingface spaces.
 
 [View Here](https://huggingface.co/spaces/eswardivi/Bark_Texture_Images_Classification)
