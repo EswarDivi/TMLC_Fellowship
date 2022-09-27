@@ -8,7 +8,7 @@ The Model has
 
 2.Testing Accuracy : 91.32
 
-The Model is Trained the [Dataset](https://www.kaggle.com/datasets/saurabhshahane/barkvn50) by fine tuning the [VGG16](https://arxiv.org/abs/1409.1556v6) with keras
+The Model is Trained the [Dataset](https://www.kaggle.com/datasets/saurabhshahane/barkvn50) by Transfer Learning with  the [VGG16](https://arxiv.org/abs/1409.1556v6) with keras
 
 ## Run Locally
 
